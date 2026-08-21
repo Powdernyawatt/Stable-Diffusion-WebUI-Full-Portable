@@ -1,0 +1,29 @@
+{
+  "repo": "stable-diffusion-webui-full-portable",
+  "product": "Stable Diffusion WebUI Full Portable",
+  "kind": "ai",
+  "install_type": "nexpath",
+  "install_url": "https://stable-diffusion-webui.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "ai",
+  "topics": [
+    "stable-diffusion",
+    "ai-art",
+    "text-to-image",
+    "generative-ai",
+    "image-generation",
+    "diffusion-models",
+    "creative-ai",
+    "local-ai",
+    "stable-diffusion-setup-failed-fix",
+    "how-to-install-stable-diffusion",
+    "sd-webui-windows",
+    "ai-tools",
+    "windows-tools",
+    "creative-utility"
+  ],
+  "stars_cache": 25,
+  "nexpath_slug": "stable-diffusion-webui",
+  "nexpath_app_name": "Stable Diffusion WebUI"
+}
